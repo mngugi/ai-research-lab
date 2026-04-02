@@ -1,6 +1,6 @@
 # MLflow Experiments 🚀
 
-This folder contains experiments using MLflow for tracking machine learning models.
+- This folder contains experiments using MLflow for tracking machine learning models.
 
 ## Structure
 
